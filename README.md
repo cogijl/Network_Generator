@@ -1,4 +1,4 @@
 Network_Generator
 =================
 
-A general platform for the generation of conceptual and social networks for NetLogo
+Sorry, this has been moved to the CreateNetworkPlatform now...
